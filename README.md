@@ -22,8 +22,7 @@ https://www.youtube.com/watch?v=RvEEZLxiAlQ
 
 https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/
 
-
-
+https://github.com/LucasBassetti/react-simple-chatbot/issues/346
 
 
 ## Open to Contributions
