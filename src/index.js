@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {render} from 'react-dom';
-
+import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
 
 render(<App />, document.getElementById('root'));
 
@@ -12,3 +12,5 @@ render(<App />, document.getElementById('root'));
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+serviceWorkerRegistration.register();
