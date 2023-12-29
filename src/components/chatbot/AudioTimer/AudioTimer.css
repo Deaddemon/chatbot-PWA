@@ -1,0 +1,20 @@
+.audio-timer {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #2ecc71;
+    text-align: center;
+  }
+  
+  .time {
+    display: inline-block;
+    color: #ecf0f1;
+  }
+  
+  .seconds,
+  .milliseconds {
+    width: 23px;
+    display: inline-block;
+    margin-left: 5px;
+  }
+  
