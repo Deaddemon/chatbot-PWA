@@ -1,0 +1,13 @@
+.chatbot-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+@media (max-width: 767px) {
+  .chatbot-container {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
