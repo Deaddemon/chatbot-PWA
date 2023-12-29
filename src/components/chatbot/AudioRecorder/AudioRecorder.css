@@ -1,0 +1,49 @@
+.audio-recorder-container {
+    max-width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  
+  .sound-wave {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .audio-controls {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .audio-controls button {
+    background-color: #6E48AA;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px; 
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .audio-controls button:hover {
+    background-color: #7D52C2;
+  }
+  
+  .audio-player {
+    margin-top: 15px;
+  
+  }
+  
+  .audio-player audio {
+    width: 100%;
+    border-radius: 8px;
+    
+  }
+  
