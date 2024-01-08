@@ -1,9 +1,9 @@
 # React ChatBot - A Progressive Web App
  Link:  https://chatbot-pwa.vercel.app/
 
-## Available Scripts
+## Preview
 
-In the project directory, you can run:
+![image](https://github.com/Deaddemon/chatbot-PWA/assets/77224604/7b14a32d-06fc-4826-87dc-44891e6e9b6e)
 
 ### `npm start`
 
